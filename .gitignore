@@ -1,0 +1,4 @@
+env
+.vscode
+omweb/db.sqlite3
+*/*/__pycache__
